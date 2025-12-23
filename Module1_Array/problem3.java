@@ -112,13 +112,5 @@ class Main {
             
             System.out.println(i + " index "+n[i]);  
         }
-        
-        
-        
-        
-
-
-
-        
     }
 }
